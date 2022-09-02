@@ -181,7 +181,7 @@ const data = [
 		description:
 			'100% Polyester, Machine wash, 100% cationic polyester interlock, Machine Wash & Pre Shrunk for a Great Fit, Lightweight, roomy and highly breathable with moisture wicking fabric which helps to keep moisture away, Soft Lightweight Fabric with comfortable V-neck collar and a slimmer fit, delivers a sleek, more feminine silhouette and Added Comfort',
 		category: "women's clothing",
-		image: './img/img-19.jpg',
+		image: '/img/img-19.jpg',
 		rating: { rate: 4.5, count: 146 },
 	},
 	{
