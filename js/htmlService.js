@@ -36,7 +36,7 @@ class HTMLService {
 		}
 		return `
 		<ul class='cart-list'>
-			${items.map(this.paintCartItem).join('')}
+			${items.map(this.paintCartItem).join('')} 
 		</ul>
 		<hr/>
 		<p class='info'>
